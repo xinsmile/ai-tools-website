@@ -1,0 +1,12 @@
+node_modules
+dist
+dist-ssr
+.git
+.gitignore
+.vscode
+.idea
+.trae
+*.log
+npm-debug.log*
+pnpm-debug.log*
+.pnpm-store
