@@ -33,3 +33,6 @@ dist-ssr
 
 # Trae
 .trae
+
+# pnpm store
+.pnpm-store
